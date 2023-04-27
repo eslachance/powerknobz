@@ -1,3 +1,3 @@
 export const Home = () => {
-  return <>Home</>;
+  return <>How long as it been since you've seen </>;
 };
