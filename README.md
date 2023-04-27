@@ -1,3 +1,9 @@
-# powerknobs
+# powerknobz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/solidjs-templates-mwm9pc)
+[TBD]
+
+Uses:
+
+- [vitejs](https://vitejs.dev/)
+- [solidjs](https://www.solidjs.com/)
+- [unocss](https://unocss.dev/)
