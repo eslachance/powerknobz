@@ -1,13 +1,15 @@
+import logo from './NameOnlyBlack.svg';
+
 export const Footer = () => {
   return (
-    <div class="w-full bg-lightpurple m-0 mt-auto flex lg:items-center">
+    <div class="w-full bg-purple/25 m-0 mt-auto flex lg:items-center text-white">
       <div class="w-[1170px] mx-auto px-12 pt-4 lg:pt-0 flex flex-col lg:flex-row items-start lg:items-center lg:justify-between">
         <div class="leading-none">
-          <a href="https://example.com" target="_blank">
+          <a href="/" target="_blank">
             <img
-              class="leading-none w-[70px] select-none"
+              class="leading-none w-25 select-none fill-white"
               alt="logo"
-              src="https://via.placeholder.com/70x40.png"
+              src={logo}
             ></img>
           </a>
         </div>
@@ -19,7 +21,7 @@ export const Footer = () => {
             <li class="text-base">
               <p>
                 <a
-                  class="font-normal text-sm underline"
+                  class="font-normal text-sm underline text-white"
                   role="button"
                   tabindex="0"
                 >
@@ -30,7 +32,7 @@ export const Footer = () => {
             <li class="text-base">
               <p>
                 <a
-                  class="font-normal text-sm underline"
+                  class="font-normal text-sm underline text-white"
                   role="button"
                   tabindex="0"
                 >
