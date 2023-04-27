@@ -1,4 +1,5 @@
-import logo from './NameOnlyBlack.svg';
+import { A } from '@solidjs/router';
+import logo from '@/PowerKnobsNameWhite.svg';
 
 export const Footer = () => {
   return (
@@ -20,24 +21,26 @@ export const Footer = () => {
           <ul class="flex gap-2 list-none m-0 p-0">
             <li class="text-base">
               <p>
-                <a
+                <A
+                  href="#"
                   class="font-normal text-sm underline text-white"
                   role="button"
                   tabindex="0"
                 >
                   <span>Privacy</span>
-                </a>
+                </A>
               </p>
             </li>
             <li class="text-base">
               <p>
-                <a
+                <A
+                  href="#"
                   class="font-normal text-sm underline text-white"
                   role="button"
                   tabindex="0"
                 >
                   <span>Contact us</span>
-                </a>
+                </A>
               </p>
             </li>
           </ul>

@@ -12,19 +12,10 @@ html,
   min-height: 100vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 a {
-  color: black;
+  color: white;
   font-weight: bold;
   cursor: pointer;
-}
-
-.hide-scrollbar::-webkit-scrollbar {
-  display: none;
 }
 
 .fade-modal-enter {
