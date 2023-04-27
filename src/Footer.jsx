@@ -12,7 +12,7 @@ export const Footer = () => {
           </a>
         </div>
         <div class="m-0 text-xs mt-3 lg:mt-0 text-left">
-          © Example 2023. No rights reserved.
+          © PowerKnobs LLC 2023. All rights reserved.
         </div>
         <div>
           <ul class="flex gap-2 list-none m-0 p-0">
