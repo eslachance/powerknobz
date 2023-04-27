@@ -1,6 +1,8 @@
-# powerknobz
+# PowerKnobz.com Website Sources
 
-[TBD]
+Powered by StackBlitz, Github and Cloudflare
+
+Details: [TBD]
 
 Uses:
 
