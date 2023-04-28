@@ -7,7 +7,7 @@ export const Template = () => {
   return (
     <div class="bg-slate font-sans text-center min-h-screen flex flex-col font-poppins">
       <Header />
-      <div class="text-center max-w-[1170px] m-auto m-t-10 p-t-[75px] text-white">
+      <div class="text-center max-w-[1170px] m-auto m-t-10 p-t-30 text-white">
         <div class="mx-auto w-full h-full">
           <Outlet />
         </div>
