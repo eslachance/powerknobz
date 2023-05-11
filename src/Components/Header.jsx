@@ -24,7 +24,7 @@ export const Header = () => {
           </div>
         </div>
       </div>
-      <div class="w-100 flex justify-center h-[75px] shadow-xl shadow-cyan-500/50">
+      <div class="w-full flex justify-center h-[75px] shadow-xl shadow-cyan-500/50">
         <div class="w-128px h-128px border-1 border-solid rounded-full shadow-md shadow-cyan-500/50 animate-pulse"></div>
       </div>
     </div>
